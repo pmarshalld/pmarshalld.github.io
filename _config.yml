@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Pío Marshall"
-  avatar           : "foto.jpg"
+  avatar           : "foto.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Santiago, Chile"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    :
   email            : "pmarshall1@uc.cl"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
